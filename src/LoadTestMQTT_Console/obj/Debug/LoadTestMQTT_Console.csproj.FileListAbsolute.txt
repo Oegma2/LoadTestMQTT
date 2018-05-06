@@ -1,8 +1,0 @@
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\bin\Debug\LoadTestMQTT_Console.exe
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\bin\Debug\LoadTestMQTT_Console.pdb
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\obj\Debug\LoadTestMQTT_Console.csprojResolveAssemblyReference.cache
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\obj\Debug\LoadTestMQTT_Console.exe
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\obj\Debug\LoadTestMQTT_Console.pdb
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\bin\Debug\LoadTestMQTT_Console.exe.config
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\bin\Debug\M2Mqtt.Net.dll
-C:\GITHUB\LoadTestMQTT\src\LoadTestMQTT_Console\bin\Debug\M2Mqtt.Net.pdb

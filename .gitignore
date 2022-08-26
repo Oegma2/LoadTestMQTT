@@ -1,0 +1,5 @@
+obj/
+src/LoadTestMQTT_Console/.vs/
+src/LoadTestMQTT_Console/bin/
+src/MQGateway/packages/
+src/LoadTestMQTT_Console/packages/
